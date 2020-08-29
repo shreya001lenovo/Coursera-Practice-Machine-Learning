@@ -1,4 +1,4 @@
-Prediction Assignment Writeup
+#Prediction Assignment Writeup
 
 This document describe the analysis done for the prediction assignment of the practical machine learning course.
 
